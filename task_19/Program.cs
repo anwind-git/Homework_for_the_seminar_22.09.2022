@@ -9,6 +9,6 @@ Array.Reverse(revers);
 int num = int.Parse(revers);
 
 if (num == number1)
-    Console.WriteLine($"Число: {number1} полиндром");
+    Console.WriteLine($"Число: {number1} палиндром");
 else
-    Console.WriteLine($"Число: {number1} не является полиндромом");
+    Console.WriteLine($"Число: {number1} не является палиндромом");
